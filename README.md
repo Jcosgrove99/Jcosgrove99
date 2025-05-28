@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋 I'm Jake Cosgrove</h1>
+<h1 align="center">👋 Hi I'm Jake Cosgrove</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 
 
-## 🎓 About Me
-
-
 ## 🌐 Connect with me:
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
