@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Jake 🤙 </h1>
 
 ## 💫 About Me
-Currently I'm working as a machine learning engineer, and interested in learning and becoming the best engineer I can. My fromal education was in economics which introduced me to data science and programming. Since then I have been trying to learn about how to write production qualtiy software, building backend services, automating with LLMs, and even a little front end web development. 
+Currently I'm working as a machine learning engineer, and interested in learning and becoming the best engineer I can. My fromal education was in economics which introduced me to data science and programming. I spent sometime working in academia and research where I learned a great deal of data science using R. Since then I have been trying to learn about how to write production qualtiy software, building backend services, automating with LLMs, and even a little front end web development. 
 
 ## 🚀 What I'm Up To
 
